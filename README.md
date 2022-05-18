@@ -1,12 +1,29 @@
-# 基于vue3的PC端表单编辑器
+# vue3-generate-form
 
-[![](https://img.shields.io/badge/vue3-3.0.0-brightgreen.svg)]({https://v3.cn.vuejs.org/}) [![](https://img.shields.io/badge/elemenplus-1.2.0-beta.5-brightgreen.svg)]({https://element-plus.gitee.io/zh-CN/})  [![](https://img.shields.io/badge/licnese-MIT-brightgreen.svg)]
-
-
-### 使用
-
+## Project setup
 ```
-npm i vue3-generate-form --save
+yarn install
 ```
 
-开发中。
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Run your unit tests
+```
+yarn test:unit
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

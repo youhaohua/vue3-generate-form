@@ -20,10 +20,18 @@
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript"
+          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router"
           target="_blank"
           rel="noopener"
-          >typescript</a
+          >router</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex"
+          target="_blank"
+          rel="noopener"
+          >vuex</a
         >
       </li>
       <li>
@@ -40,6 +48,14 @@
           target="_blank"
           rel="noopener"
           >unit-jest</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript"
+          target="_blank"
+          rel="noopener"
+          >typescript</a
         >
       </li>
     </ul>
@@ -114,7 +130,7 @@ export default defineComponent({
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style scoped lang="scss">
 h3 {
   margin: 40px 0 0;
 }
