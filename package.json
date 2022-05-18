@@ -10,8 +10,12 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "element-plus": "^2.2.0",
+    "unplugin-auto-import": "^0.7.2",
+    "unplugin-vue-components": "^0.19.5",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vuedraggable": "^4.1.0",
     "vuex": "^4.0.0"
   },
   "devDependencies": {
@@ -30,6 +34,7 @@
     "@vue/vue3-jest": "^27.0.0-alpha.1",
     "babel-jest": "^27.0.6",
     "commitizen": "^4.2.4",
+    "compression-webpack-plugin": "^10.0.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
